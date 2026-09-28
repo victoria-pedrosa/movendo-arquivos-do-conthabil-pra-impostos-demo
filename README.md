@@ -1,6 +1,6 @@
-# Movendo Arquivos Do Conthabil Pra Impostos
+# Demonstração — Limpeza de arquivos temporários nas pastas de impostos
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de limpeza de arquivos temporários nas pastas de impostos — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Arquivos temporários (XML/CSV) acumulavam nas pastas de impostos.
